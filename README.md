@@ -13,4 +13,4 @@ Python · SQL · Splunk · Network Security · Risk Assessment · OWASP Top 10
 - **[CTF Write-ups](link-later)** — picoCTF challenge solutions and reasoning
 
 ## 📫 Reach me
-(mailto:leeyushfirosh548@gmail.com)
+[leeyushfirosh548@gmail.com](mailto:leeyushfirosh548@gmail.com)
