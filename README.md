@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Leeyush 
 
-<!--
-**Leeyush/Leeyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc (Hons) Cyber Security graduate (University of Derby), focused on threat 
+detection, risk assessment, and applied ML for security.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+Python · SQL · Splunk · Network Security · Risk Assessment · OWASP Top 10
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- **[Home SOC Lab](link-later)** — custom detections built on Splunk using the Boss of the SOC dataset
+- **[Vulnerability Assessment Report](link-later)** — full risk-rated scan of a deliberately vulnerable system
+- **[TryHackMe Write-ups](link-later)** — solved rooms with detailed methodology write-ups
+- **[CTF Write-ups](link-later)** — picoCTF challenge solutions and reasoning
+
+## 📫 Reach me
+[leeyushfirosh548@gmail.com] 
